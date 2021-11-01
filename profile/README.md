@@ -1,11 +1,42 @@
-## Hi there 👋
+## About Us
 
+We are a group of young people focused on the continuous improvement of the use of technology to meet the needs of our customers, with our solid team we can make you and your idea or business grow and stay at the forefront of the market.
 
-**Here are some ideas to get you started:**
+### What do we do?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
+We offer precise and quality solutions with work intended to be scalable over time in order to provide continuity and future growth as you improve.
+
+## Objectives
+
+**Short**
+
+Our short term objectives (3 months), is to get clients with basic work to help their company, brand, product or service with the creation or improvement of their website.
+
+**Medium**
+
+In the medium term (6 months) our goal is to have a private registration system for customers and to be able to offer metrics of the usability of your site and recommendations for improvement based on the data obtained from the usage statistics of the product created.
+
+**Long**
+
+In the long term our goal is to be able to offer not only the service of creating a simple product such as a web page, but also specialized micro-services to the client's needs.
+
+We also have the goal of creating a section for developers and share our tools in an open source way and help with our tools to those who need it.
+
+## Vision
+
+Our vision is to be able to offer our services and products to high-end clients, create solutions to individual problems and study the best methodologies for the growth of our clients.
+
+## Mission
+
+To be a solid institution with the best team and to be able to bring value not only to customers, but to the developer community with our Open Source tools so that the improvement of these tools are an anchor of excellence in software development.
+
+## Values
+
+Continuous growth.
+
+Respect.
+
+Companionship.
+
+Communication.
 
