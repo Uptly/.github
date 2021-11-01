@@ -8,16 +8,6 @@ We offer precise and quality solutions with work intended to be scalable over ti
 
 ## Objectives
 
-**Short**
-
-Our short term objectives (3 months), is to get clients with basic work to help their company, brand, product or service with the creation or improvement of their website.
-
-**Medium**
-
-In the medium term (6 months) our goal is to have a private registration system for customers and to be able to offer metrics of the usability of your site and recommendations for improvement based on the data obtained from the usage statistics of the product created.
-
-**Long**
-
 In the long term our goal is to be able to offer not only the service of creating a simple product such as a web page, but also specialized micro-services to the client's needs.
 
 We also have the goal of creating a section for developers and share our tools in an open source way and help with our tools to those who need it.
@@ -39,4 +29,6 @@ Respect.
 Companionship.
 
 Communication.
+
+You can learn more about us in our Notion document.
 
