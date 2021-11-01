@@ -30,5 +30,5 @@ Companionship.
 
 Communication.
 
-You can learn more about us in our Notion document.
+_You can learn more about us in our **[Notion](https://www.notion.so/Brozger-eaa2489566ca46b589f7e2d8a98a694e)** document._
 
